@@ -2,9 +2,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Brian-Yobra&theme=tokyo-night)
-
+## 📊 GitHub Stats & Activity 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Yobra&layout=compact&theme=tokyonight&hide_border=true) 
 
