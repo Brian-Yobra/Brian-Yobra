@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=FF69B4&width=700&lines=Hello,+I'm+Brian!;💻+A+CS+student+.;+Always+learning,+building,+blooming+🌸)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=FF69B4&width=700&lines=Hello,+I'm+Brian!;💻+A+CS+student+.;+Always+learning,+and+building)](https://git.io/typing-svg)
 
 ---
 
