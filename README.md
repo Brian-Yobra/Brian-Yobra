@@ -4,7 +4,7 @@
 
 ## 📊 GitHub Stats & Activity 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Yobra&layout=compact&theme=tokyonight&hide_border=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Yobra&layout=compact&theme=tokyonight&hide_border=false) 
 
 
 ---
