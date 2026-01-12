@@ -27,7 +27,7 @@
 
 ### Tools  
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/download/)
-[![Zed](https://img.shields.io/badge/Zed-Editor-%231e1e1e.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zLjE0NiAyMS41TDExLjE1IDguNzg3TDkuNDE0IDZIMy4xNDZMMiAxMEg2LjA3NEwzLjE0NiAyMS41Wk0yMC44NTQgMi41TDEyLjg1IDE1LjIxM0wxNC41ODYgMThIMjAuODU0TDIyIDE0SDE3LjkyNkwyMC44NTQgMi41WiIvPjwvc3ZnPg==&logoColor=white)](https://zed.dev)
+[![Zed](https://img.shields.io/badge/Zed-Editor-%2324292e.svg?style=for-the-badge&logo=zed&logoColor=white)](https://zed.dev)
 [![Tmux](https://img.shields.io/badge/tmux-%231BB91F.svg?style=for-the-badge&logo=tmux&logoColor=white)](https://github.com/tmux/tmux/wiki/Installing)
 [![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads)
 [![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)](https://desktop.github.com/)
