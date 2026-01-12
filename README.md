@@ -27,7 +27,7 @@
 
 ### Tools  
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/download/)
-[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/install/)
+[![Zed](https://img.shields.io/badge/Zed-Editor-%2324292e.svg?style=for-the-badge&logo=zed&logoColor=white)](https://zed.dev)
 [![Tmux](https://img.shields.io/badge/tmux-%231BB91F.svg?style=for-the-badge&logo=tmux&logoColor=white)](https://github.com/tmux/tmux/wiki/Installing)
 [![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads)
 [![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)](https://desktop.github.com/)
