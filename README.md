@@ -4,8 +4,10 @@
 ![Top Langs](https://github-stats-card-generator.vercel.app/api/svg?username=Brian-Yobra&type=languages&theme=tokyonight&chart=donut)
 
 ---
-#PORTFOLIO
-[![Portfolio](https://brian-kihara.vercel.app/favicon.svg)](https://brian-kihara.vercel.app/projects)
+## PORTFOLIO
+<a href="https://brian-kihara.vercel.app/projects">
+  <img src="https://brian-kihara.vercel.app/favicon.svg" alt="Portfolio" width="50" height="50">
+</a>
 
 ### Tools  
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/download/)
