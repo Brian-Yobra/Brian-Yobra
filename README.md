@@ -5,7 +5,7 @@
 
 ---
 ## PORTFOLIO
-<a href="https://brian-kihara.vercel.app/projects">
+<a href="https://brian-kihara.vercel.app">
   <img src="https://brian-kihara.vercel.app/favicon.svg" alt="Portfolio" width="50" height="50">
 </a>
 
